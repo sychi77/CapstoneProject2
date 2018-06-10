@@ -11,7 +11,7 @@
 Inspired by Burton Malkiel's quote from *A Random Walk Down Wall Street*: 
 > "A blindfolded monkey throwing darts at a newspaper's financial pages could select a portfolio that would do just as well as one carefully selected by experts."
 
-I decided to investigate the credibility of how a portfolio of 20 random stocks will perform against the S&P500. I explore a 5+ years window from January 2013 to June 2018. This report includes a thorough time series analysis and uses ARIMA models to predict and forecast the pair of time series.
+I decided to investigate the credibility of how a portfolio of 20 randomly selected stocks will outperform the S&P 500 index. I explore a 5+ years window from January 2013 to June 2018. This report includes a thorough time series analysis and uses ARIMA models to predict and forecast the pair of time series.
 
 ### Data
 
