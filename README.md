@@ -1,5 +1,4 @@
 # Stock Market Analysis
----
 
 ### Main
 
