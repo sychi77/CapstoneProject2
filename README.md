@@ -6,6 +6,8 @@
 
 [Stock_Market_Analysis_Presentation](https://github.com/sychi77/Stock_Market_Analysis/blob/master/Stock_Market_Analysis_Presentation.pdf "Stock Market Analysis  PowerPoint Slides") contains the PowerPoint slides presentation.
 
+[Stock_Market_Analysis_Report](https://github.com/sychi77/Stock_Market_Analysis/blob/master/Stock_Market_Analysis_Report.pdf "Stock Market Analysis Full Report") contains the full project report.
+
 ### Summary
 
 Inspired by Burton Malkiel's quote from *A Random Walk Down Wall Street*: 
